@@ -16,7 +16,7 @@ Challenges in correctly detecting wheat heads.
 ## 🔗 Links
 
 - [Dataset](https://www.kaggle.com/competitions/global-wheat-detection/data)
-- [Learned Model Weights](kaggle.com/code/sudhanshu2198/wheat-head-detection-using-faster-rcnn-pytorch/output?select=model.pth)
+- [Learned Model Weights](https://www.kaggle.com/code/sudhanshu2198/wheat-head-detection-using-faster-rcnn-pytorch/output?select=model.pth)
 - [Kaggle Notebook](https://www.kaggle.com/code/sudhanshu2198/wheat-head-detection-using-faster-rcnn-pytorch/notebook)
 
 ## 🛠 Skills
