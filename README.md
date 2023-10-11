@@ -2,7 +2,7 @@
 
 # Wheat Head Detection using Faster RCNN
 
-Wheat is a staple across the globe and makes up the dominant part of a population's diet. Climate change, extreme heats and other conditions threatened the cultivation yield and health of the wheat. By estimating the density and size of wheat heads farmers can better assess their crops health, also help reseacher study the effect of climate change on food cultivation across globe.
+Wheat is a staple across the globe and makes up the dominant part of a population's diet. Climate change, extreme heats and other conditions threatened the cultivation yield and health of the wheat. By estimating the density and size of wheat heads farmers can better assess their crop health, also help reseacher study the effect of climate change on food cultivation across globe.
 
 ![](https://i.ibb.co/WvSqSpr/9818452-fig-001.jpg)
 
